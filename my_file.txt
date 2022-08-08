@@ -1,6 +1,10 @@
 asd
 iokl
 ghj
+<<<<<<< HEAD
 qwe
+=======
+asd
+>>>>>>> c0f90fe283ca87ad3bebb796d7ce39b9118a7197
 qwwqeqwewqrqwrqwrqw
 asdasddasdas
